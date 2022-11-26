@@ -1,2 +1,3 @@
 # learning-without-preassumptions
-When babies learn new things, what they can get depends on their natural talents and envi
+
+There are two main different ways of learning in the world. One is through education systems built by different governments and societies. The other one is learning online. But you can also be affected by many others' opinions, which may make you feel a little lost and unsure about the most valuable things. So I created the ultimate learning materials of many basic subjects to help people find what to learn and how to learn them in both theory and practice. Due to the consistent rapid development of human knowledge, I hope I can have time to keep updating this repo along the way!
